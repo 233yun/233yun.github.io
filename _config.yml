@@ -203,3 +203,21 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description: blank
+      author: 233yun
+      image: /posts/
+      categories: []
+      tags: []
+    posts:
+      description: blank
+      author: 233yun
+      image: /posts/
+      categories: []
+      tags: []
+      pin: true
+      math: true
+      mermaid: true

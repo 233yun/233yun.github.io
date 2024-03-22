@@ -1,8 +1,11 @@
 ---
-layout: post
 title: "Turtorial of Jekyll in windows"
+description: A simple tutorial on implementing a personal blog website based on jekyll and github.
 author: 233yun
-date: 2024-03-19
+date: 2024-03-19 15:33:00 +0800
+categories: [Tools,Jekyll]
+tags: [jekyll,Github page]
+pin: true
 ---
 
 
