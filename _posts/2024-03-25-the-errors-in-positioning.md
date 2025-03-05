@@ -2,7 +2,6 @@
 title: The errors in Positioning
 date: 2024-03-25 14:47 +0800
 description: With different positioning algorithms, we'll face different errors, and we must know the source of them and how to improve.
-image: "/posts/"
 categories: [GNSS]
 tags: [position error]
 pin: true
